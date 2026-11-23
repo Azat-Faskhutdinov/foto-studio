@@ -1,0 +1,14 @@
+# Dépendances et fichiers générés
+node_modules
+.nuxt
+.nitro
+.cache
+.output
+.netlify
+dist
+
+# Fichiers locaux
+.env
+*.log
+*.local
+.DS_Store
